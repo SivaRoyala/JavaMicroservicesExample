@@ -15,5 +15,5 @@ http://localhost:8081/cart/getProductDetails/siva
 http://localhost:8082/payment/getPaymentDetails/100
 
 4. Consumer Service
-  a. http://localhost:8080/webclient/cart/siva
+  a. http://localhost:8080/webclient/cart/siva 
   b. http://localhost:8080/webclient/payment/105
